@@ -1,5 +1,7 @@
 Test-Cucumber-TestNG
-Performance test using cucumber, testNG, sellenium Q1) Program to automate the given scenario using Java, TestNG and Selenium WebDriver. Q2) Q1 as Behavior Driven Development (BDD) program.
+Performance test using cucumber, testNG, sellenium 
+Q1) Program to automate the given scenario using Java, TestNG and Selenium WebDriver. 
+Q2) Q1 as Behavior Driven Development (BDD) program.
 
 scenario,
 
